@@ -82,14 +82,14 @@ medium to heavy semesters. (COPIED)
     - Good class overall, Professor Erdmann was very lively to watch. 
 - 15-122: Principles of Imperative Computation
     - Introductory data structures and algorithms class.
-    - Extremely pedantic grading on written assignments that somewhat triggered me at times
+    - Extremely picky grading on written assignments that somewhat triggered me at times
     - Builds important foundation for all future CS endeavours. 
 - 21-241: Matrices and Linear Transformations
     - A.K.A. an introductory class to Linear Algebra
     - More thoughts to come.
 - 79-104
     - Required freshman history class for all Dietrich students
-    - Pretty easy class overall, only complaint is the annoying essays that we had to write. 
+    - Pretty easy class overall, only complaint was the essays that we had to write. 
 - 66-122: First-Year Seminar: Palestinian and Israeli Food Cultures
     - Fulfills freshman seminar class requirement for Dietrich students. 
     - The topic at hand was actually interesting, revolving around the conflicts going on in 
@@ -103,31 +103,29 @@ medium to heavy semesters. (COPIED)
 I found myself spacing out watching 150 lectures, despite the fact that they were actually engaging. 
 Zoom university does take its toll when you stare at a computer all day. 
 
-### Summer 2021:
+**Summer 2021:**
 
-- Intern?
-- 15-213?
+To be determined...
 
-### Fall 2021:
+**Fall 2021:** (Planned)
 
-- ☆ 15-251: Great Ideas in Theoretical Computer Science
-- 15-210: Parallel and Sequential Data Structures and Algorithms
-- 21-268: Multidimensional Calculus
-- 80-310: Formal Logic
-- 98-317: Hypes for Types (StuCo)
+- Great Ideas in Theoretical Computer Science (15-251)
+- Parallel and Sequential Data Structures and Algorithms (15-210)
+- Multidimensional Calculus (21-268)
+- Formal Logic (80-310)
+- Acting for Business (70-350)
 
 **Overall Workload: TBD**
 
 **Notes: TBD**
 
-### Spring 2022:
+**Spring 2022:** (Planned)
 
-- ☆ 21-484: Graph Theory
-- 15-213: Introduction to Computer Systems
-- 05-391: Designing Human-Centered Software
-- 80-311: Undecidability and Incompleteness
-- ☆ ****15-259: Probability and Computing
-- 15-260: Statistics and Computing
+- Graph Theory (21-484)
+- Introduction to Computer Systems (15-213)
+- Probability (21-325)
+- Undecidability and Incompleteness (80-311)
+- Nature of Reason (80-150)
 
 **Overall Workload: TBD**
 

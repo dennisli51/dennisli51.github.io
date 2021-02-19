@@ -10,11 +10,11 @@ Full course thoughts and review here: (Fill in here)
 
 **Fall 2020:**
 
-- Mathematical Foundations of CS (21-128/15-151)
+- Mathematical Concepts and Proofs (21-128)
 - Fundamentals of Programming and CS (15-112)
 - Logic and Mathematical Inquiry (80-211)
 - Photography, the First 100 Years (79-316)
-- Writing Requirements (76-106/76-107)
+- Writing about Data/Writing about Art (76-106/76-107)
 
 **Spring 2021:**
 
@@ -22,7 +22,7 @@ Full course thoughts and review here: (Fill in here)
 - Principles of Imperative Computation (15-122)
 - Matrices and Linear Transformations (21-241)
 - Global Histories (79-104)
-- Freshman Seminar (66-128)
+- First-Year Seminar: Palestinian and Israeli Food Cultures (66-128)
 
 **Fall 2021:** (Planned)
 
