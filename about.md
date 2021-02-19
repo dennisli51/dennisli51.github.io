@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hello! I'm Dennis, and I'm currently a freshman (Class of 2024) at Carnegie Mellon University 
+majoring in Logic & Computation. I am intending to add an additional major in either
+Math or Computer Science. 
 
-### More Information
+### TBD
 
-A place to include any other types of information that you'd like to include about yourself.
+Hmm...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[dennis.f.li02@gmail.com](mailto:dennis.f.li02@gmail.com)
