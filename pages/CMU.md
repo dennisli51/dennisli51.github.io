@@ -6,7 +6,7 @@ permalink: /cmu/
 
 Here is a list of courses I have taken at CMU, and some courses I hope to take.
 
-Full course thoughts and reviews [Here](courses)
+Full course thoughts and reviews [here](courses)
 
 **Fall 2020:**
 
