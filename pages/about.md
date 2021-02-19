@@ -5,8 +5,7 @@ permalink: /about/
 ---
 
 Hello! I'm Dennis, and I'm currently a freshman (Class of 2024) at Carnegie Mellon University 
-majoring in Logic & Computation. I am intending to add an additional major in either
-Math or Computer Science. 
+majoring in Logic & Computation (intending to add an additional major in either Math or Computer Science).
 
 ### TBD
 
