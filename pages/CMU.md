@@ -1,12 +1,12 @@
 ---
 layout: page
 title: CMU Thoughts and Experiences
-permalink: /CMU/
+permalink: /cmu/
 ---
 
 Here is a list of courses I have taken at CMU, and some courses I hope to take.
 
-Full course thoughts and review here: (Fill in here)
+Full course thoughts and reviews [Here](dennisli51.github.io/cmu/courses)
 
 **Fall 2020:**
 

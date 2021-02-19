@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CMU Course Musings
-permalink: /CMU/courses
+permalink: /cmu/courses
 ---
 
 <!---Taking inspiration from Max Slater's blog and Wan Shen Lim's blog, these are my thoughts 
@@ -17,8 +17,6 @@ but decided to forfeit credit to retake 15-112) and an uninspiring math backgrou
 
 "☆" for **outstanding** courses that were the highlight of my semester and were worth attending 
 CMU to get to experience. Courses without a star are still worthwhile unless otherwise stated. 
-
-"(X)" Courses that I strongly disliked or regret taking. 
 
 Semester difficulty ratings: {light, medium, heavy, death} corresponding to {lots of free time, 
 routine, strict routine and some all nighters, regular all nighters}. I generally aim for 
