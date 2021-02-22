@@ -6,9 +6,10 @@ permalink: /cmu/
 
 Here is a list of courses I have taken at CMU, and some courses I hope to take.
 
-Full course thoughts and reviews [here](courses)
+<!---Full course thoughts and reviews [here](courses) --->
 
-**Fall 2020:**
+
+**Fall 2020:** 
 
 - Mathematical Concepts and Proofs (21-128)
 - Fundamentals of Programming and CS (15-112)
