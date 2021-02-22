@@ -109,21 +109,9 @@ To be determined...
 
 - Great Ideas in Theoretical Computer Science (15-251)
 - Parallel and Sequential Data Structures and Algorithms (15-210)
-- Principles of Real Analysis I (21-355)
+- Probability (21-325)
 - Formal Logic (80-310)
 - Acting for Business (70-350)
-
-**Overall Workload: TBD**
-
-**Notes: TBD**
-
-**Spring 2022:** (Planned)
-
-- Graph Theory (21-484)
-- Introduction to Computer Systems (15-213)
-- Probability (21-325)
-- Undecidability and Incompleteness (80-311)
-- Nature of Reason (80-150)
 
 **Overall Workload: TBD**
 
