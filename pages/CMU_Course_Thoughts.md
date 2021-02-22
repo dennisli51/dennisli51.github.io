@@ -109,7 +109,7 @@ To be determined...
 
 - Great Ideas in Theoretical Computer Science (15-251)
 - Parallel and Sequential Data Structures and Algorithms (15-210)
-- Multidimensional Calculus (21-268)
+- Principles of Real Analysis I (21-355)
 - Formal Logic (80-310)
 - Acting for Business (70-350)
 
