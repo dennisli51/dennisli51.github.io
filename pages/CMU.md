@@ -29,7 +29,7 @@ Here is a list of courses I have taken at CMU, and some courses I hope to take.
 
 - Great Ideas in Theoretical Computer Science (15-251)
 - Parallel and Sequential Data Structures and Algorithms (15-210)
-- Probability (21-325)
+- Probability Theory (21-325)
 - Formal Logic (80-310)
 - Acting for Business (70-350)
 
