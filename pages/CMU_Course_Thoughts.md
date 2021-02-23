@@ -80,7 +80,6 @@ medium to heavy semesters. (COPIED)
     - Good class overall, Professor Erdmann was very lively to watch. 
 - 15-122: Principles of Imperative Computation
     - Introductory data structures and algorithms class.
-    - Extremely picky grading on written assignments that somewhat triggered me at times
     - Builds important foundation for all future CS endeavours. 
 - 21-241: Matrices and Linear Transformations
     - A.K.A. an introductory class to Linear Algebra
@@ -90,9 +89,7 @@ medium to heavy semesters. (COPIED)
     - Pretty easy class overall, only complaint was the essays that we had to write. 
 - 66-122: First-Year Seminar: Palestinian and Israeli Food Cultures
     - Fulfills freshman seminar class requirement for Dietrich students. 
-    - The topic at hand was actually interesting, revolving around the conflicts going on in 
-        the Middle East between Palestine and Israeli, but the course itself was taught
-        in an extremely boring and dry manner. 
+    - The topic at hand was actually interesting, revolving around the conflicts going on in the Middle East between Palestine and Israeli, but the course itself was taught in an extremely boring and dry manner. 
     - Overall minimal work. 
 
 **Overall Workload:** TBD
@@ -111,7 +108,6 @@ To be determined...
 - Parallel and Sequential Data Structures and Algorithms (15-210)
 - Probability Theory (21-325)
 - Formal Logic (80-310)
-- Acting for Business (70-350)
 
 **Overall Workload: TBD**
 
