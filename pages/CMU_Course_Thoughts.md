@@ -106,7 +106,7 @@ To be determined...
 
 - Great Ideas in Theoretical Computer Science (15-251)
 - Parallel and Sequential Data Structures and Algorithms (15-210)
-- Algebraic Structures (21-373)
+- Probability (21-325)
 - Formal Logic (80-310)
 
 **Overall Workload: TBD**
