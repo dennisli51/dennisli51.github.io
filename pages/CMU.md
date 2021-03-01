@@ -31,4 +31,4 @@ Here is a list of courses I have taken at CMU, and some courses I hope to take.
 - Parallel and Sequential Data Structures and Algorithms (15-210)
 - Algebraic Structures (21-373)
 - Formal Logic (80-310)
---->
+-->
