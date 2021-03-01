@@ -24,11 +24,11 @@ Here is a list of courses I have taken at CMU, and some courses I hope to take.
 - Matrices and Linear Transformations (21-241)
 - Global Histories (79-104)
 - First-Year Seminar: Palestinian and Israeli Food Cultures (66-128)
-
+<!---
 **Fall 2021:** (Planned)
 
 - Great Ideas in Theoretical Computer Science (15-251)
 - Parallel and Sequential Data Structures and Algorithms (15-210)
-- Probability Theory (21-325)
+- Algebraic Structures (21-373)
 - Formal Logic (80-310)
-
+--->
