@@ -4,8 +4,9 @@ title: CMU Course Musings
 permalink: /cmu/courses
 ---
 
-<!---Taking inspiration from Max Slater's blog and Wan Shen Lim's blog, these are my thoughts 
-about the courses I have taken at CMU so far. --->
+<!---
+Taking inspiration from Max Slater's blog and Wan Shen Lim's blog, these are my thoughts 
+about the courses I have taken at CMU so far. 
 
 **Goals:** Major in Logic & Computation with an additional major in either Math or CS.
 Still unsure about entering the industry or pursuing grad school (not like I have to 
@@ -112,3 +113,6 @@ To be determined...
 **Overall Workload: TBD**
 
 **Notes: TBD**
+
+--->
+
